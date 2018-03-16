@@ -15,7 +15,7 @@ class BaseData(object):
         return json.dumps(self)
 
     def get_type(self):
-        return self.tp
+        return "init"
 
 
 class ClientData(BaseData):

@@ -1,38 +1,61 @@
 __author__ = 'xsank'
 
 import logging
-
+import traceback
 import tornado.websocket
 
 from daemon import Bridge
 from data import ClientData
 from utils import check_ip, check_port
 
+import itchat
+from itchat.content import *
+
+global client
+client=1
 
 class IndexHandler(tornado.web.RequestHandler):
     def get(self):
         self.render("index.html")
 
-
 class WSHandler(tornado.websocket.WebSocketHandler):
-    clients = dict()
 
-    def get_client(self):
-        return self.clients.get(self._id(), None)
+    @itchat.msg_register([itchat.content.TEXT])
+    def simple_reply(msg):
+        if msg['Type'] == TEXT:
+            output=""
+            try:
+                if client == 1 :
+                    print("wait for init")
+                    return
+                else:
+                    return
+                bridge = client
+                if msg['Content'].startswith('pi'):
+                    print("local-ssh-connection")
+                    bridge.trans_forward(msg['Content'])
+                elif msg['Content']=='hand':
+                    status=0
+                    output='welcome '+msg['FromUserName']
+            except Exception,e:
+                print("error wx client")
+                print 'traceback.print_exc():'; traceback.print_exc()
+                return
+
+    @staticmethod
+    def get_client():
+        return client
 
     def put_client(self):
-        bridge = Bridge(self)
-        self.clients[self._id()] = bridge
+        print("init bridge")
+        client = Bridge(self)
 
     def remove_client(self):
-        bridge = self.get_client()
-        if bridge:
-            bridge.destroy()
-            del self.clients[self._id()]
+        return
 
     @staticmethod
     def _check_init_param(data):
-        return check_ip(data["host"]) and check_port(data["port"])
+        return True
 
     @staticmethod
     def _is_init_data(data):
@@ -49,7 +72,6 @@ class WSHandler(tornado.websocket.WebSocketHandler):
         client_data = ClientData(message)
         if self._is_init_data(client_data):
             if self._check_init_param(client_data.data):
-                bridge.open(client_data.data)
                 logging.info('connection established from: %s' % self._id())
             else:
                 self.remove_client()

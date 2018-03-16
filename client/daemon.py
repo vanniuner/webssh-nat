@@ -1,5 +1,7 @@
 __author__ = 'xsank'
 
+from tornado.websocket import WebSocketClosedError
+
 try:
     from cStringIO import StringIO
 except ImportError:
@@ -19,28 +21,19 @@ class Bridge(object):
     def websocket(self):
         return self._websocket
 
-    def establish(self, term="xterm"):
-        self._shell = self.ssh.invoke_shell(term)
-        self._shell.setblocking(0)
-
-        self._id = self._shell.fileno()
-
     def trans_forward(self, data=""):
-        if self._shell:
-            self._shell.send(data)
+        return
 
-    def trans_back(self):
-        yield self.id
+    def trans_back(self,data=""):
         connected = True
         while connected:
-            result = yield
+            result = data
             if self._websocket:
                 try:
-                    print("back:",result)
                     self._websocket.write_message(result)
                 except WebSocketClosedError:
                     connected = False
-                if result.strip() == 'logout':
+                if result == 'logout':
                     connected = False
         self.destroy()
 

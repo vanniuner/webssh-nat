@@ -56,20 +56,14 @@ function store(options) {
 }
 
 function check() {
-    return validResult["host"] && validResult["port"] && validResult["username"];
+    return true;
 }
 
 function connect() {
-    var remember = $("#remember").is(":checked")
     var options = {
         host: $("#host").val(),
         port: $("#port").val(),
         username: $("#username").val(),
-        ispwd: $("input[name=ispwd]:checked").val(),
-        secret: $("#secret").val(),
-    }
-    if (remember) {
-        store(options)
     }
     if (check()) {
         openTerminal(options)

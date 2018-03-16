@@ -64,3 +64,647 @@
 [I 180316 13:48:16 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.95ms
 [I 180316 13:48:16 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.67ms
 [I 180316 13:48:16 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.36ms
+[I 180316 14:11:06 login:44] Getting uuid of QR code.
+[I 180316 14:11:06 login:47] Downloading QR code.
+[I 180316 14:11:06 login:50] Please scan the QR code to log in.
+[I 180316 14:11:25 login:60] Please press confirm on your phone.
+[I 180316 14:11:28 login:70] Loading the contact, this may take a little while.
+[I 180316 14:11:30 login:80] Login successfully as 泥人张
+[I 180316 14:11:30 register:85] Start auto replying.
+[I 180316 14:12:32 register:97] Bye~
+[I 180316 14:39:58 login:60] Please press confirm on your phone.
+[I 180316 14:40:08 login:67] Log in time out, reloading QR code.
+[I 180316 14:40:10 login:60] Please press confirm on your phone.
+[I 180316 14:40:12 login:70] Loading the contact, this may take a little while.
+[I 180316 14:40:15 login:80] Login successfully as 泥人张
+[I 180316 14:40:15 register:85] Start auto replying.
+[I 180316 15:29:07 web:1811] 200 GET / (127.0.0.1) 13.99ms
+[I 180316 15:29:07 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 20.29ms
+[I 180316 15:29:07 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.78ms
+[I 180316 15:29:07 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 3.67ms
+[I 180316 15:29:07 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 4.36ms
+[I 180316 15:29:07 web:1811] 200 GET /static/js/main.js (127.0.0.1) 1.50ms
+[I 180316 15:29:09 web:1811] 304 GET / (127.0.0.1) 0.56ms
+[I 180316 15:29:09 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.05ms
+[I 180316 15:29:09 web:1811] 304 GET /static/css/main.css (127.0.0.1) 4.68ms
+[I 180316 15:29:09 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 3.42ms
+[I 180316 15:29:09 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.11ms
+[I 180316 15:29:09 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.79ms
+[I 180316 15:30:12 web:1811] 304 GET / (127.0.0.1) 0.58ms
+[I 180316 15:30:12 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.01ms
+[I 180316 15:30:12 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.55ms
+[I 180316 15:30:12 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.29ms
+[I 180316 15:30:12 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.88ms
+[I 180316 15:30:12 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.46ms
+[I 180316 15:30:13 web:1811] 304 GET / (127.0.0.1) 0.69ms
+[I 180316 15:30:13 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 0.89ms
+[I 180316 15:30:14 web:1811] 304 GET /static/css/main.css (127.0.0.1) 2.68ms
+[I 180316 15:30:14 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 3.57ms
+[I 180316 15:30:14 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 3.18ms
+[I 180316 15:30:14 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.34ms
+[I 180316 15:30:34 register:85] Start auto replying.
+[I 180316 15:31:34 register:85] Start auto replying.
+[I 180316 15:31:43 web:1811] 200 GET / (127.0.0.1) 3.48ms
+[I 180316 15:31:43 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 20.45ms
+[I 180316 15:31:43 web:1811] 304 GET /static/css/main.css (127.0.0.1) 2.15ms
+[I 180316 15:31:43 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.85ms
+[I 180316 15:31:43 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.99ms
+[I 180316 15:31:43 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.18ms
+[I 180316 15:32:18 web:1811] 304 GET / (127.0.0.1) 1.21ms
+[I 180316 15:32:19 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.37ms
+[I 180316 15:32:19 web:1811] 304 GET /static/css/main.css (127.0.0.1) 2.74ms
+[I 180316 15:32:19 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.67ms
+[I 180316 15:32:19 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.07ms
+[I 180316 15:32:19 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.72ms
+[I 180316 15:32:19 web:1811] 304 GET / (127.0.0.1) 0.89ms
+[I 180316 15:32:20 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 2.22ms
+[I 180316 15:32:20 web:1811] 304 GET /static/css/main.css (127.0.0.1) 3.91ms
+[I 180316 15:32:20 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.40ms
+[I 180316 15:32:20 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.71ms
+[I 180316 15:32:20 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.67ms
+[I 180316 15:33:37 register:85] Start auto replying.
+[I 180316 15:33:40 web:1811] 200 GET / (127.0.0.1) 1.90ms
+[I 180316 15:33:41 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 18.90ms
+[I 180316 15:33:41 web:1811] 304 GET /static/css/main.css (127.0.0.1) 3.90ms
+[I 180316 15:33:41 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.85ms
+[I 180316 15:33:41 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 4.48ms
+[I 180316 15:33:41 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.01ms
+[I 180316 15:33:44 web:1811] 304 GET / (127.0.0.1) 0.73ms
+[I 180316 15:33:44 web:1811] 304 GET /static/css/main.css (127.0.0.1) 2.06ms
+[I 180316 15:33:44 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.14ms
+[I 180316 15:33:44 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.22ms
+[I 180316 15:33:44 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.72ms
+[I 180316 15:33:44 web:1811] 304 GET /static/js/main.js (127.0.0.1) 3.33ms
+[I 180316 15:33:45 web:1811] 304 GET / (127.0.0.1) 0.50ms
+[I 180316 15:33:45 web:1811] 304 GET /static/css/main.css (127.0.0.1) 4.64ms
+[I 180316 15:33:45 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.91ms
+[I 180316 15:33:45 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.91ms
+[I 180316 15:33:45 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.42ms
+[I 180316 15:33:45 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.95ms
+[I 180316 15:33:45 web:1811] 304 GET / (127.0.0.1) 1.62ms
+[I 180316 15:33:45 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.48ms
+[I 180316 15:33:45 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.08ms
+[I 180316 15:33:45 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.88ms
+[I 180316 15:33:45 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.11ms
+[I 180316 15:33:45 web:1811] 304 GET /static/js/main.js (127.0.0.1) 3.20ms
+[I 180316 15:33:59 web:1811] 304 GET / (127.0.0.1) 0.43ms
+[I 180316 15:33:59 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 0.97ms
+[I 180316 15:33:59 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.25ms
+[I 180316 15:33:59 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.82ms
+[I 180316 15:33:59 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.10ms
+[I 180316 15:33:59 web:1811] 304 GET /static/css/main.css (127.0.0.1) 2.12ms
+[I 180316 15:34:28 web:1811] 304 GET / (127.0.0.1) 4.24ms
+[I 180316 15:34:29 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 2.01ms
+[I 180316 15:34:29 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.84ms
+[I 180316 15:34:29 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.24ms
+[I 180316 15:34:29 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.63ms
+[I 180316 15:34:29 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.53ms
+[I 180316 15:34:41 web:1811] 304 GET / (127.0.0.1) 1.43ms
+[I 180316 15:34:41 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.44ms
+[I 180316 15:34:41 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.85ms
+[I 180316 15:34:41 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.52ms
+[I 180316 15:34:41 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.73ms
+[I 180316 15:34:41 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.82ms
+[I 180316 15:36:25 register:85] Start auto replying.
+[I 180316 15:36:28 web:1811] 304 GET / (127.0.0.1) 4.53ms
+[I 180316 15:36:29 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 12.24ms
+[I 180316 15:36:29 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.06ms
+[I 180316 15:36:29 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.95ms
+[I 180316 15:36:29 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 3.08ms
+[I 180316 15:36:29 web:1811] 200 GET /static/js/main.js (127.0.0.1) 2.42ms
+[W 180316 15:36:35 handlers:56] init param invalid: {u'username': u'dev', u'host': u'localhost', u'port': u'22'}
+[I 180316 15:45:56 register:85] Start auto replying.
+[I 180316 15:46:49 register:85] Start auto replying.
+[I 180316 15:50:32 register:85] Start auto replying.
+[I 180316 15:51:35 register:85] Start auto replying.
+[I 180316 16:20:34 login:60] Please press confirm on your phone.
+[I 180316 16:22:10 login:60] Please press confirm on your phone.
+[I 180316 16:25:25 login:60] Please press confirm on your phone.
+[I 180316 16:26:28 login:60] Please press confirm on your phone.
+[I 180316 16:26:29 login:70] Loading the contact, this may take a little while.
+[I 180316 16:26:36 login:80] Login successfully as 泥人张
+[I 180316 16:26:36 register:85] Start auto replying.
+[I 180316 16:39:48 login:60] Please press confirm on your phone.
+[I 180316 16:39:50 login:70] Loading the contact, this may take a little while.
+[I 180316 16:39:52 login:80] Login successfully as 泥人张
+[I 180316 16:39:53 register:85] Start auto replying.
+[I 180316 16:39:57 web:1811] 200 GET / (127.0.0.1) 6.03ms
+[I 180316 16:39:57 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 14.93ms
+[I 180316 16:39:57 web:1811] 304 GET /static/css/main.css (127.0.0.1) 2.31ms
+[I 180316 16:39:57 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.05ms
+[I 180316 16:39:57 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.09ms
+[I 180316 16:39:57 web:1811] 304 GET /static/js/main.js (127.0.0.1) 3.72ms
+[W 180316 16:39:58 handlers:56] init param invalid: {u'username': u'dev', u'host': u'localhost', u'port': u'22'}
+[I 180316 16:53:10 login:60] Please press confirm on your phone.
+[I 180316 16:53:13 login:70] Loading the contact, this may take a little while.
+[I 180316 16:53:14 web:1811] 304 GET / (127.0.0.1) 1.54ms
+[I 180316 16:53:15 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 29.09ms
+[I 180316 16:53:15 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.39ms
+[I 180316 16:53:15 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.85ms
+[I 180316 16:53:15 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.42ms
+[I 180316 16:53:15 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.84ms
+[W 180316 16:53:15 handlers:56] init param invalid: {u'username': u'dev', u'host': u'localhost', u'port': u'22'}
+[E 180316 16:53:15 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 51, in on_message
+        if self._check_init_param(client_data.data):
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 35, in _check_init_param
+        return check_ip(data["host"]) and check_port(data["port"])
+    TypeError: string indices must be integers
+[I 180316 16:53:15 login:80] Login successfully as 泥人张
+[I 180316 16:53:16 register:85] Start auto replying.
+[I 180316 16:53:27 web:1811] 304 GET / (127.0.0.1) 0.62ms
+[I 180316 16:53:27 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.32ms
+[I 180316 16:53:27 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.72ms
+[I 180316 16:53:27 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.41ms
+[I 180316 16:53:27 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.91ms
+[I 180316 16:53:27 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.16ms
+[W 180316 16:53:28 handlers:56] init param invalid: {u'username': u'dev', u'host': u'localhost', u'port': u'22'}
+[E 180316 16:53:28 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 51, in on_message
+        if self._check_init_param(client_data.data):
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 35, in _check_init_param
+        return check_ip(data["host"]) and check_port(data["port"])
+    TypeError: string indices must be integers
+[I 180316 16:53:28 web:1811] 304 GET / (127.0.0.1) 0.65ms
+[I 180316 16:53:28 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.78ms
+[I 180316 16:53:28 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.82ms
+[I 180316 16:53:28 web:1811] 304 GET /static/css/main.css (127.0.0.1) 3.92ms
+[I 180316 16:53:28 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.02ms
+[I 180316 16:53:28 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.05ms
+[W 180316 16:53:29 handlers:56] init param invalid: {u'username': u'dev', u'host': u'localhost', u'port': u'22'}
+[E 180316 16:53:29 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 51, in on_message
+        if self._check_init_param(client_data.data):
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 35, in _check_init_param
+        return check_ip(data["host"]) and check_port(data["port"])
+    TypeError: string indices must be integers
+[I 180316 16:53:29 web:1811] 304 GET / (127.0.0.1) 0.51ms
+[I 180316 16:53:29 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.37ms
+[I 180316 16:53:29 web:1811] 304 GET /static/css/main.css (127.0.0.1) 2.50ms
+[I 180316 16:53:29 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 11.22ms
+[I 180316 16:53:29 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 7.15ms
+[I 180316 16:53:29 web:1811] 304 GET /static/js/main.js (127.0.0.1) 4.22ms
+[W 180316 16:53:32 handlers:56] init param invalid: {u'username': u'dev', u'host': u'localhost', u'port': u'22'}
+[E 180316 16:53:32 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 51, in on_message
+        if self._check_init_param(client_data.data):
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 35, in _check_init_param
+        return check_ip(data["host"]) and check_port(data["port"])
+    TypeError: string indices must be integers
+[I 180316 16:55:39 register:85] Start auto replying.
+[I 180316 16:55:41 web:1811] 304 GET / (127.0.0.1) 4.06ms
+[I 180316 16:55:42 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 20.68ms
+[I 180316 16:55:42 web:1811] 304 GET /static/css/main.css (127.0.0.1) 2.74ms
+[I 180316 16:55:42 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 11.29ms
+[I 180316 16:55:42 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 8.81ms
+[I 180316 16:55:42 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.72ms
+[E 180316 16:55:42 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 51, in on_message
+        if self._check_init_param(client_data.data):
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 35, in _check_init_param
+        return true
+    NameError: global name 'true' is not defined
+[I 180316 16:55:42 handlers:63] client close the connection: 4553609360
+[I 180316 16:56:05 register:85] Start auto replying.
+[I 180316 16:56:08 web:1811] 304 GET / (127.0.0.1) 3.55ms
+[I 180316 16:56:08 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 17.48ms
+[I 180316 16:56:08 web:1811] 304 GET /static/css/main.css (127.0.0.1) 4.53ms
+[I 180316 16:56:08 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 13.64ms
+[I 180316 16:56:08 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 4.01ms
+[I 180316 16:56:08 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.56ms
+[E 180316 16:56:09 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 52, in on_message
+        bridge.open(client_data.data)
+    AttributeError: 'Bridge' object has no attribute 'open'
+[I 180316 16:56:09 handlers:63] client close the connection: 4450324624
+[I 180316 16:58:01 register:85] Start auto replying.
+[I 180316 16:58:04 web:1811] 304 GET / (127.0.0.1) 1.69ms
+[I 180316 16:58:04 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 17.89ms
+[I 180316 16:58:04 web:1811] 304 GET /static/css/main.css (127.0.0.1) 2.38ms
+[I 180316 16:58:04 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.83ms
+[I 180316 16:58:04 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.79ms
+[I 180316 16:58:04 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.91ms
+[E 180316 16:58:05 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 52, in on_message
+        bridge.open(client_data.data)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/daemon.py", line 23, in open
+        self.establish()
+      File "/Users/liuzijie/shell/python/webssh-nat/client/daemon.py", line 26, in establish
+        self._shell = self.ssh.invoke_shell(term)
+    AttributeError: 'Bridge' object has no attribute 'ssh'
+[I 180316 16:58:05 handlers:63] client close the connection: 4474466640
+[I 180316 17:00:54 register:85] Start auto replying.
+[I 180316 17:00:58 web:1811] 304 GET / (127.0.0.1) 1.62ms
+[I 180316 17:00:58 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 20.47ms
+[I 180316 17:00:58 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.23ms
+[I 180316 17:00:58 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 12.19ms
+[I 180316 17:00:58 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 5.37ms
+[I 180316 17:00:58 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.19ms
+[E 180316 17:00:59 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 52, in on_message
+        bridge.open(client_data.data)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/daemon.py", line 43, in open
+        self.establish()
+      File "/Users/liuzijie/shell/python/webssh-nat/client/daemon.py", line 46, in establish
+        self._shell = self.ssh.invoke_shell(term)
+      File "/Library/Python/2.7/site-packages/paramiko/client.py", line 510, in invoke_shell
+        chan = self._transport.open_session()
+    AttributeError: 'NoneType' object has no attribute 'open_session'
+[I 180316 17:00:59 handlers:63] client close the connection: 4383150480
+[I 180316 17:05:29 register:85] Start auto replying.
+[I 180316 17:05:36 web:1811] 304 GET / (127.0.0.1) 2.26ms
+[I 180316 17:05:36 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 15.83ms
+[I 180316 17:05:36 web:1811] 304 GET /static/js/main.js (127.0.0.1) 8.42ms
+[I 180316 17:05:36 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 5.55ms
+[I 180316 17:05:36 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 4.39ms
+[I 180316 17:05:37 web:1811] 304 GET /static/css/main.css (127.0.0.1) 19.91ms
+[I 180316 17:05:37 handlers:53] connection established from: 4484342032
+[I 180316 17:05:37 handlers:53] connection established from: 4484342032
+[I 180316 17:06:56 register:85] Start auto replying.
+[I 180316 17:06:58 web:1811] 304 GET / (127.0.0.1) 1.35ms
+[I 180316 17:06:58 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 15.88ms
+[I 180316 17:06:58 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.33ms
+[I 180316 17:06:58 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 8.71ms
+[I 180316 17:06:58 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.98ms
+[I 180316 17:06:58 web:1811] 304 GET /static/js/main.js (127.0.0.1) 3.74ms
+[I 180316 17:06:59 handlers:52] connection established from: 4431729040
+[I 180316 17:06:59 handlers:52] connection established from: 4431729040
+[I 180316 17:07:02 handlers:52] connection established from: 4431729040
+[I 180316 17:07:03 handlers:62] client close the connection: 4431729040
+[I 180316 17:07:03 web:1811] 304 GET / (127.0.0.1) 1.90ms
+[I 180316 17:07:03 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 2.42ms
+[I 180316 17:07:03 web:1811] 304 GET /static/css/main.css (127.0.0.1) 5.99ms
+[I 180316 17:07:03 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 7.52ms
+[I 180316 17:07:03 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.54ms
+[I 180316 17:07:03 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.07ms
+[I 180316 17:07:03 handlers:52] connection established from: 4431730256
+[I 180316 17:07:03 handlers:52] connection established from: 4431730256
+[I 180316 17:07:04 handlers:52] connection established from: 4431730256
+[I 180316 17:07:05 handlers:62] client close the connection: 4431730256
+[I 180316 17:07:05 web:1811] 304 GET / (127.0.0.1) 0.62ms
+[I 180316 17:07:05 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 2.66ms
+[I 180316 17:07:05 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 5.72ms
+[I 180316 17:07:05 web:1811] 304 GET /static/css/main.css (127.0.0.1) 2.18ms
+[I 180316 17:07:05 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.27ms
+[I 180316 17:07:05 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.86ms
+[I 180316 17:07:05 handlers:52] connection established from: 4431731472
+[I 180316 17:07:05 handlers:52] connection established from: 4431731472
+[I 180316 17:11:59 register:85] Start auto replying.
+[I 180316 17:12:00 web:1811] 304 GET / (127.0.0.1) 1.80ms
+[I 180316 17:12:00 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 12.23ms
+[I 180316 17:12:00 web:1811] 304 GET /static/css/main.css (127.0.0.1) 5.35ms
+[I 180316 17:12:00 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.98ms
+[I 180316 17:12:00 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.14ms
+[I 180316 17:12:00 web:1811] 304 GET /static/js/main.js (127.0.0.1) 6.57ms
+[I 180316 17:12:52 register:85] Start auto replying.
+[I 180316 17:13:04 web:1811] 304 GET / (127.0.0.1) 2.99ms
+[E 180316 17:13:05 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 52, in on_message
+        bridge.trans_back(client_data.data)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/daemon.py", line 36, in trans_back
+        if result.strip() == 'logout':
+    AttributeError: 'dict' object has no attribute 'strip'
+[I 180316 17:13:05 handlers:63] client close the connection: 4564285904
+[I 180316 17:13:14 web:1811] 304 GET / (127.0.0.1) 1.48ms
+[I 180316 17:13:15 web:1811] 304 GET / (127.0.0.1) 0.84ms
+[W 180316 17:13:15 web:1811] 404 GET /favicon.ico (127.0.0.1) 10.20ms
+[I 180316 17:13:16 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 27.44ms
+[I 180316 17:13:16 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.45ms
+[I 180316 17:13:16 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 4.41ms
+[I 180316 17:13:16 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 4.11ms
+[I 180316 17:13:16 web:1811] 304 GET /static/js/main.js (127.0.0.1) 10.95ms
+[E 180316 17:13:16 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 52, in on_message
+        bridge.trans_back(client_data.data)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/daemon.py", line 36, in trans_back
+        if result.strip() == 'logout':
+    AttributeError: 'dict' object has no attribute 'strip'
+[I 180316 17:13:16 handlers:63] client close the connection: 4564607760
+[I 180316 17:13:49 web:1811] 304 GET / (127.0.0.1) 0.56ms
+[I 180316 17:13:49 web:1811] 304 GET / (127.0.0.1) 0.50ms
+[I 180316 17:13:49 web:1811] 304 GET / (127.0.0.1) 0.41ms
+[I 180316 17:13:49 web:1811] 304 GET / (127.0.0.1) 0.69ms
+[I 180316 17:15:22 web:1811] 304 GET / (127.0.0.1) 3.35ms
+[I 180316 17:15:22 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 26.64ms
+[I 180316 17:15:22 web:1811] 304 GET /static/css/main.css (127.0.0.1) 2.81ms
+[I 180316 17:15:22 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 3.56ms
+[I 180316 17:15:22 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 2.38ms
+[I 180316 17:15:22 web:1811] 304 GET /static/js/main.js (127.0.0.1) 7.96ms
+[I 180316 17:15:23 register:85] Start auto replying.
+[E 180316 17:15:23 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 52, in on_message
+        bridge.trans_back(client_data.data)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/daemon.py", line 36, in trans_back
+        if result.strip() == 'logout':
+    AttributeError: 'dict' object has no attribute 'strip'
+[I 180316 17:15:23 handlers:60] client close the connection: 4336689296
+[I 180316 17:15:24 web:1811] 304 GET / (127.0.0.1) 0.57ms
+[I 180316 17:15:24 web:1811] 304 GET /static/css/main.css (127.0.0.1) 3.15ms
+[I 180316 17:15:24 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 0.79ms
+[I 180316 17:15:24 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.12ms
+[I 180316 17:15:24 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 4.14ms
+[I 180316 17:15:24 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.21ms
+[E 180316 17:15:25 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 52, in on_message
+        bridge.trans_back(client_data.data)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/daemon.py", line 36, in trans_back
+        if result.strip() == 'logout':
+    AttributeError: 'dict' object has no attribute 'strip'
+[I 180316 17:15:25 handlers:60] client close the connection: 4336691280
+[I 180316 17:15:25 web:1811] 304 GET / (127.0.0.1) 0.66ms
+[I 180316 17:15:25 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 3.40ms
+[I 180316 17:15:25 web:1811] 304 GET /static/js/main.js (127.0.0.1) 4.18ms
+[I 180316 17:15:25 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.61ms
+[I 180316 17:15:25 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.85ms
+[I 180316 17:15:25 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.15ms
+[E 180316 17:15:26 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 52, in on_message
+        bridge.trans_back(client_data.data)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/daemon.py", line 36, in trans_back
+        if result.strip() == 'logout':
+    AttributeError: 'dict' object has no attribute 'strip'
+[I 180316 17:15:26 handlers:60] client close the connection: 4336692432
+[I 180316 17:15:26 web:1811] 304 GET / (127.0.0.1) 0.71ms
+[I 180316 17:15:27 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 0.82ms
+[I 180316 17:15:27 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.61ms
+[I 180316 17:15:27 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 5.00ms
+[I 180316 17:15:27 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 2.02ms
+[I 180316 17:15:27 web:1811] 304 GET /static/js/main.js (127.0.0.1) 19.71ms
+[E 180316 17:15:27 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 52, in on_message
+        bridge.trans_back(client_data.data)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/daemon.py", line 36, in trans_back
+        if result.strip() == 'logout':
+    AttributeError: 'dict' object has no attribute 'strip'
+[I 180316 17:15:27 handlers:60] client close the connection: 4336690576
+[I 180316 17:22:27 web:1811] 304 GET / (127.0.0.1) 0.97ms
+[I 180316 17:22:28 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.10ms
+[I 180316 17:22:28 web:1811] 304 GET /static/css/main.css (127.0.0.1) 4.25ms
+[I 180316 17:22:28 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.71ms
+[I 180316 17:22:28 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.34ms
+[I 180316 17:22:28 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.36ms
+[E 180316 17:22:29 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 52, in on_message
+        bridge.trans_back(client_data.data)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/daemon.py", line 36, in trans_back
+        if result.strip() == 'logout':
+    AttributeError: 'dict' object has no attribute 'strip'
+[I 180316 17:22:29 handlers:60] client close the connection: 4336443792
+[I 180316 17:23:55 register:85] Start auto replying.
+[I 180316 17:23:59 web:1811] 304 GET / (127.0.0.1) 1.94ms
+[I 180316 17:23:59 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 20.57ms
+[I 180316 17:23:59 web:1811] 304 GET /static/css/main.css (127.0.0.1) 3.87ms
+[I 180316 17:23:59 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.80ms
+[I 180316 17:23:59 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.29ms
+[I 180316 17:23:59 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.62ms
+[E 180316 17:24:00 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 52, in on_message
+        bridge.trans_back(client_data.data)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/daemon.py", line 36, in trans_back
+        if result.strip() == 'logout':
+    AttributeError: 'dict' object has no attribute 'strip'
+[I 180316 17:24:00 handlers:60] client close the connection: 4491145488
+[I 180316 17:26:53 register:85] Start auto replying.
+[I 180316 17:26:55 web:1811] 304 GET / (127.0.0.1) 2.71ms
+[I 180316 17:26:55 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 15.77ms
+[I 180316 17:26:55 web:1811] 304 GET /static/css/main.css (127.0.0.1) 0.86ms
+[I 180316 17:26:55 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 13.55ms
+[I 180316 17:26:55 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 8.28ms
+[I 180316 17:26:55 web:1811] 304 GET /static/js/main.js (127.0.0.1) 7.84ms
+[I 180316 17:56:58 login:60] Please press confirm on your phone.
+[I 180316 17:57:04 login:70] Loading the contact, this may take a little while.
+[I 180316 17:57:06 login:80] Login successfully as 泥人张
+[I 180316 17:57:06 register:85] Start auto replying.
+[I 180316 17:57:11 web:1811] 304 GET / (127.0.0.1) 7.39ms
+[I 180316 17:57:12 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 24.48ms
+[I 180316 17:57:12 web:1811] 304 GET /static/css/main.css (127.0.0.1) 2.49ms
+[I 180316 17:57:12 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.49ms
+[I 180316 17:57:12 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 3.39ms
+[I 180316 17:57:12 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.73ms
+[I 180316 17:59:18 register:85] Start auto replying.
+[I 180316 17:59:20 web:1811] 304 GET / (127.0.0.1) 5.61ms
+[I 180316 17:59:22 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 25.73ms
+[I 180316 17:59:22 web:1811] 304 GET /static/css/main.css (127.0.0.1) 4.62ms
+[I 180316 17:59:22 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 3.19ms
+[I 180316 17:59:22 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 2.27ms
+[I 180316 17:59:22 web:1811] 304 GET /static/js/main.js (127.0.0.1) 4.17ms
+[I 180316 17:59:23 handlers:71] connection established from: 4560474192
+[I 180316 17:59:23 handlers:71] connection established from: 4560474192
+[W 180316 17:59:54 register:64] Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/itchat/components/register.py", line 60, in configured_reply
+        r = replyFn(msg)
+    TypeError: simple_reply() takes exactly 2 arguments (1 given)
+    
+[I 180316 18:01:20 register:85] Start auto replying.
+[W 180316 18:01:20 register:64] Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/itchat/components/register.py", line 60, in configured_reply
+        r = replyFn(msg)
+    TypeError: simple_reply() takes exactly 2 arguments (1 given)
+    
+[W 180316 18:01:31 register:64] Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/itchat/components/register.py", line 60, in configured_reply
+        r = replyFn(msg)
+    TypeError: simple_reply() takes exactly 2 arguments (1 given)
+    
+[I 180316 18:01:36 web:1811] 304 GET / (127.0.0.1) 3.59ms
+[I 180316 18:01:37 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 10.44ms
+[I 180316 18:01:37 web:1811] 304 GET /static/css/main.css (127.0.0.1) 10.63ms
+[I 180316 18:01:37 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.21ms
+[I 180316 18:01:37 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.29ms
+[I 180316 18:01:37 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 3.74ms
+[I 180316 18:01:38 handlers:71] connection established from: 4517997456
+[I 180316 18:01:38 handlers:71] connection established from: 4517997456
+[W 180316 18:01:45 register:64] Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/itchat/components/register.py", line 60, in configured_reply
+        r = replyFn(msg)
+    TypeError: simple_reply() takes exactly 2 arguments (1 given)
+    
+[I 180316 18:02:21 register:85] Start auto replying.
+[I 180316 18:02:35 register:85] Start auto replying.
+[I 180316 18:02:49 register:85] Start auto replying.
+[I 180316 18:03:18 web:1811] 304 GET / (127.0.0.1) 5.28ms
+[I 180316 18:03:19 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 14.25ms
+[I 180316 18:03:19 web:1811] 304 GET /static/css/main.css (127.0.0.1) 2.83ms
+[I 180316 18:03:19 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 8.50ms
+[I 180316 18:03:19 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 2.13ms
+[I 180316 18:03:19 web:1811] 304 GET /static/js/main.js (127.0.0.1) 5.11ms
+[I 180316 18:03:20 handlers:71] connection established from: 4432293968
+[I 180316 18:03:20 handlers:71] connection established from: 4432293968
+[I 180316 18:04:30 register:85] Start auto replying.
+[I 180316 18:04:32 web:1811] 304 GET / (127.0.0.1) 1.58ms
+[I 180316 18:04:32 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 17.89ms
+[I 180316 18:04:32 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.64ms
+[I 180316 18:04:32 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 3.66ms
+[I 180316 18:04:32 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.69ms
+[I 180316 18:04:32 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.23ms
+[I 180316 18:04:34 handlers:70] connection established from: 4558377040
+[I 180316 18:04:34 handlers:70] connection established from: 4558377040
+[I 180316 18:07:23 register:85] Start auto replying.
+[I 180316 18:07:55 register:85] Start auto replying.
+[I 180316 18:08:34 register:85] Start auto replying.
+[I 180316 18:09:15 register:85] Start auto replying.
+[W 180316 18:09:15 register:64] Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/itchat/components/register.py", line 60, in configured_reply
+        r = replyFn(msg)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 34, in simple_reply
+        print 'traceback.print_exc():'; traceback.print_exc()
+    NameError: global name 'traceback' is not defined
+    
+[I 180316 18:09:37 register:85] Start auto replying.
+[I 180316 18:10:44 register:85] Start auto replying.
+[I 180316 18:11:02 register:85] Start auto replying.
+[I 180316 18:16:12 login:60] Please press confirm on your phone.
+[I 180316 18:16:17 login:70] Loading the contact, this may take a little while.
+[I 180316 18:16:19 login:80] Login successfully as 泥人张
+[I 180316 18:16:19 register:85] Start auto replying.
+[I 180316 18:16:43 register:85] Start auto replying.
+[I 180316 18:17:00 register:85] Start auto replying.
+[I 180316 18:17:58 register:85] Start auto replying.
+[I 180316 18:20:55 register:85] Start auto replying.
+[I 180316 18:23:14 register:85] Start auto replying.
+[I 180316 18:24:26 register:85] Start auto replying.
+[I 180316 18:25:15 register:85] Start auto replying.
+[I 180316 18:25:48 web:1811] 304 GET / (127.0.0.1) 1.58ms
+[I 180316 18:25:49 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 23.92ms
+[I 180316 18:25:49 web:1811] 304 GET /static/css/main.css (127.0.0.1) 4.23ms
+[I 180316 18:25:49 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.15ms
+[I 180316 18:25:49 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.20ms
+[I 180316 18:25:49 web:1811] 304 GET /static/js/main.js (127.0.0.1) 9.36ms
+[E 180316 18:25:50 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 67, in on_message
+        bridge = self.get_client()
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 44, in get_client
+        return client
+    NameError: global name 'client' is not defined
+[I 180316 18:25:50 handlers:81] client close the connection: 4543713488
+[I 180316 18:26:42 register:85] Start auto replying.
+[I 180316 18:26:51 web:1811] 304 GET / (127.0.0.1) 2.09ms
+[I 180316 18:26:52 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 21.10ms
+[I 180316 18:26:52 web:1811] 304 GET /static/css/main.css (127.0.0.1) 4.41ms
+[I 180316 18:26:52 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.65ms
+[I 180316 18:26:52 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.84ms
+[I 180316 18:26:52 web:1811] 304 GET /static/js/main.js (127.0.0.1) 5.48ms
+[E 180316 18:26:53 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 68, in on_message
+        bridge = self.get_client()
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 45, in get_client
+        return client
+    NameError: global name 'client' is not defined
+[I 180316 18:26:54 handlers:82] client close the connection: 4468977872
+[I 180316 18:28:51 register:85] Start auto replying.
+[I 180316 18:29:14 register:85] Start auto replying.
+[I 180316 18:29:17 web:1811] 304 GET / (127.0.0.1) 1.52ms
+[I 180316 18:29:18 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 18.08ms
+[I 180316 18:29:18 web:1811] 304 GET /static/css/main.css (127.0.0.1) 0.93ms
+[I 180316 18:29:18 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 6.80ms
+[I 180316 18:29:18 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.67ms
+[I 180316 18:29:18 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.61ms
+[I 180316 18:29:19 handlers:74] connection established from: 4553400528
+[I 180316 18:29:19 handlers:74] connection established from: 4553400528
+[I 180316 18:29:51 handlers:74] connection established from: 4553400528
+[I 180316 18:29:52 handlers:74] connection established from: 4553400528
+[I 180316 18:29:53 handlers:84] client close the connection: 4553400528
+[I 180316 18:29:53 web:1811] 304 GET / (127.0.0.1) 0.55ms
+[I 180316 18:29:54 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 2.91ms
+[I 180316 18:29:54 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.19ms
+[I 180316 18:29:54 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 3.59ms
+[I 180316 18:29:54 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.82ms
+[I 180316 18:29:54 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.04ms
+[I 180316 18:29:55 handlers:74] connection established from: 4553402128
+[I 180316 18:29:55 handlers:74] connection established from: 4553402128
+[I 180316 18:30:29 register:85] Start auto replying.
+[I 180316 18:30:35 web:1811] 304 GET / (127.0.0.1) 2.14ms
+[I 180316 18:30:35 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 16.37ms
+[I 180316 18:30:35 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.77ms
+[I 180316 18:30:35 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.88ms
+[I 180316 18:30:35 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.57ms
+[I 180316 18:30:35 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.84ms
+[I 180316 18:30:36 handlers:75] connection established from: 4449333456
+[I 180316 18:30:36 handlers:75] connection established from: 4449333456
+[I 180316 18:31:04 register:85] Start auto replying.
+[I 180316 18:31:08 web:1811] 304 GET / (127.0.0.1) 1.72ms
+[I 180316 18:31:08 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 24.03ms
+[I 180316 18:31:08 web:1811] 304 GET /static/css/main.css (127.0.0.1) 2.63ms
+[I 180316 18:31:08 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 5.16ms
+[I 180316 18:31:08 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 2.11ms
+[I 180316 18:31:08 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.84ms
+[I 180316 18:31:09 handlers:75] connection established from: 4376191184
+[I 180316 18:31:09 handlers:75] connection established from: 4376191184
+[I 180316 18:31:38 handlers:85] client close the connection: 4376191184
+[I 180316 18:31:38 web:1811] 304 GET / (127.0.0.1) 0.54ms
+[I 180316 18:31:39 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 2.08ms
+[I 180316 18:31:39 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.69ms
+[I 180316 18:31:39 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.89ms
+[I 180316 18:31:39 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.63ms
+[I 180316 18:31:39 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.82ms
+[I 180316 18:31:40 handlers:75] connection established from: 4376193232
+[I 180316 18:31:40 handlers:75] connection established from: 4376193232
+[I 180316 18:32:23 register:85] Start auto replying.
+[I 180316 18:32:27 web:1811] 304 GET / (127.0.0.1) 9.42ms
+[I 180316 18:32:27 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 21.98ms
+[I 180316 18:32:27 web:1811] 304 GET /static/css/main.css (127.0.0.1) 4.47ms
+[I 180316 18:32:27 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.80ms
+[I 180316 18:32:27 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 3.39ms
+[I 180316 18:32:27 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.02ms
+[E 180316 18:32:29 websocket:344] Uncaught exception in /ws
+    Traceback (most recent call last):
+      File "/Library/Python/2.7/site-packages/tornado/websocket.py", line 341, in _run_callback
+        callback(*args, **kwargs)
+      File "/Users/liuzijie/shell/python/webssh-nat/client/handlers.py", line 68, in open
+        self.put_client()
+    TypeError: put_client() takes no arguments (1 given)
+[I 180316 18:32:29 handlers:85] client close the connection: 4478169296
