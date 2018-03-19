@@ -708,3 +708,364 @@
         self.put_client()
     TypeError: put_client() takes no arguments (1 given)
 [I 180316 18:32:29 handlers:85] client close the connection: 4478169296
+[I 180319 09:43:20 login:44] Getting uuid of QR code.
+[I 180319 09:43:20 login:47] Downloading QR code.
+[I 180319 09:43:20 login:50] Please scan the QR code to log in.
+[I 180319 09:43:31 login:60] Please press confirm on your phone.
+[I 180319 09:43:33 login:70] Loading the contact, this may take a little while.
+[I 180319 09:43:35 login:80] Login successfully as 泥人张
+[I 180319 09:43:35 register:85] Start auto replying.
+[I 180319 09:45:02 web:1811] 304 GET / (127.0.0.1) 5.31ms
+[I 180319 09:45:02 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 44.44ms
+[I 180319 09:45:02 web:1811] 304 GET /static/css/main.css (127.0.0.1) 4.83ms
+[I 180319 09:45:02 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 4.76ms
+[I 180319 09:45:02 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 9.69ms
+[I 180319 09:45:02 web:1811] 304 GET /static/js/main.js (127.0.0.1) 8.48ms
+[I 180319 09:45:03 handlers:74] connection established from: 4502142416
+[I 180319 09:45:03 handlers:74] connection established from: 4502142416
+[I 180319 09:47:34 register:85] Start auto replying.
+[I 180319 09:47:42 web:1811] 304 GET / (127.0.0.1) 2.56ms
+[I 180319 09:47:43 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 13.77ms
+[I 180319 09:47:43 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.77ms
+[I 180319 09:47:43 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.22ms
+[I 180319 09:47:43 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 5.42ms
+[I 180319 09:47:43 web:1811] 304 GET /static/css/main.css (127.0.0.1) 0.99ms
+[I 180319 09:47:43 handlers:74] connection established from: 4330881296
+[I 180319 09:47:43 handlers:74] connection established from: 4330881296
+[I 180319 09:48:18 register:85] Start auto replying.
+[I 180319 09:48:22 web:1811] 304 GET / (127.0.0.1) 1.19ms
+[I 180319 09:48:22 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 16.49ms
+[I 180319 09:48:22 web:1811] 304 GET /static/css/main.css (127.0.0.1) 0.92ms
+[I 180319 09:48:22 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.26ms
+[I 180319 09:48:22 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 3.19ms
+[I 180319 09:48:22 web:1811] 304 GET /static/js/main.js (127.0.0.1) 3.75ms
+[I 180319 09:48:22 handlers:74] connection established from: 4453769360
+[I 180319 09:48:22 handlers:74] connection established from: 4453769360
+[I 180319 09:48:54 register:85] Start auto replying.
+[I 180319 09:48:57 web:1811] 304 GET / (127.0.0.1) 1.36ms
+[I 180319 09:48:57 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 23.31ms
+[I 180319 09:48:57 web:1811] 304 GET /static/css/main.css (127.0.0.1) 0.94ms
+[I 180319 09:48:57 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.26ms
+[I 180319 09:48:57 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 4.70ms
+[I 180319 09:48:57 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.44ms
+[I 180319 09:48:57 handlers:72] connection established from: 4539752592
+[I 180319 09:48:57 handlers:72] connection established from: 4539752592
+[I 180319 09:55:41 handlers:72] connection established from: 4539752592
+[I 180319 09:55:43 handlers:72] connection established from: 4539752592
+[I 180319 09:55:44 handlers:82] client close the connection: 4539752592
+[I 180319 09:55:44 web:1811] 304 GET / (127.0.0.1) 4.69ms
+[I 180319 09:55:44 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.45ms
+[I 180319 09:55:44 web:1811] 304 GET /static/css/main.css (127.0.0.1) 3.05ms
+[I 180319 09:55:44 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.43ms
+[I 180319 09:55:44 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.77ms
+[I 180319 09:55:44 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.06ms
+[I 180319 09:55:45 handlers:72] connection established from: 4539754128
+[I 180319 09:55:45 handlers:72] connection established from: 4539754128
+[I 180319 09:57:39 register:85] Start auto replying.
+[I 180319 09:57:42 web:1811] 304 GET / (127.0.0.1) 1.49ms
+[I 180319 09:57:43 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 22.56ms
+[I 180319 09:57:43 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.05ms
+[I 180319 09:57:43 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.84ms
+[I 180319 09:57:43 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 5.54ms
+[I 180319 09:57:43 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.49ms
+[I 180319 09:57:46 handlers:72] connection established from: 4348125264
+[I 180319 09:57:46 handlers:72] connection established from: 4348125264
+[I 180319 10:14:10 login:60] Please press confirm on your phone.
+[I 180319 10:14:13 login:70] Loading the contact, this may take a little while.
+[I 180319 10:14:15 login:80] Login successfully as 泥人张
+[I 180319 10:14:15 register:85] Start auto replying.
+[I 180319 10:14:21 web:1811] 304 GET / (127.0.0.1) 5.41ms
+[I 180319 10:14:22 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 24.69ms
+[I 180319 10:14:22 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.96ms
+[I 180319 10:14:22 web:1811] 304 GET /static/js/main.js (127.0.0.1) 7.11ms
+[I 180319 10:14:22 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.37ms
+[I 180319 10:14:22 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.22ms
+[I 180319 10:15:39 register:85] Start auto replying.
+[I 180319 10:15:42 web:1811] 304 GET / (127.0.0.1) 1.35ms
+[I 180319 10:15:43 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 16.80ms
+[I 180319 10:15:43 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.39ms
+[I 180319 10:15:43 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 8.39ms
+[I 180319 10:15:43 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.94ms
+[I 180319 10:15:43 web:1811] 304 GET /static/js/main.js (127.0.0.1) 12.73ms
+[I 180319 10:17:23 register:85] Start auto replying.
+[I 180319 10:17:28 web:1811] 304 GET / (127.0.0.1) 4.70ms
+[I 180319 10:17:29 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 17.44ms
+[I 180319 10:17:29 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.36ms
+[I 180319 10:17:29 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.70ms
+[I 180319 10:17:29 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 18.02ms
+[I 180319 10:17:29 web:1811] 304 GET /static/js/main.js (127.0.0.1) 4.26ms
+[I 180319 10:20:18 register:85] Start auto replying.
+[I 180319 10:20:26 web:1811] 304 GET / (127.0.0.1) 6.42ms
+[I 180319 10:22:09 web:1811] 304 GET / (127.0.0.1) 1.81ms
+[I 180319 10:22:09 web:1811] 304 GET / (127.0.0.1) 0.43ms
+[I 180319 10:24:12 handlers:74] client close the connection: 4365342992
+[I 180319 10:24:12 web:1811] 304 GET / (127.0.0.1) 0.65ms
+[I 180319 10:24:12 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 12.74ms
+[I 180319 10:24:12 web:1811] 304 GET / (127.0.0.1) 0.42ms
+[W 180319 10:24:12 web:1811] 404 GET /favicon.ico (127.0.0.1) 9.35ms
+[I 180319 10:24:13 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 6.03ms
+[I 180319 10:24:13 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.48ms
+[I 180319 10:24:13 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.31ms
+[I 180319 10:24:13 web:1811] 304 GET /static/css/main.css (127.0.0.1) 2.21ms
+[I 180319 10:24:13 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 14.77ms
+[I 180319 10:24:40 register:85] Start auto replying.
+[I 180319 10:24:42 web:1811] 304 GET / (127.0.0.1) 1.75ms
+[I 180319 10:24:43 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 22.80ms
+[I 180319 10:24:43 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.00ms
+[I 180319 10:24:43 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.25ms
+[I 180319 10:24:43 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 2.93ms
+[I 180319 10:24:43 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.33ms
+[I 180319 10:37:42 register:85] Start auto replying.
+[I 180319 10:37:52 web:1811] 304 GET / (127.0.0.1) 6.24ms
+[I 180319 10:37:53 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 15.35ms
+[I 180319 10:37:53 web:1811] 304 GET /static/css/main.css (127.0.0.1) 3.27ms
+[I 180319 10:37:53 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.88ms
+[I 180319 10:37:53 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.07ms
+[I 180319 10:37:53 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.97ms
+[I 180319 10:40:38 register:85] Start auto replying.
+[I 180319 10:40:41 web:1811] 304 GET / (127.0.0.1) 1.87ms
+[I 180319 10:40:42 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 16.53ms
+[I 180319 10:40:42 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.40ms
+[I 180319 10:40:42 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 5.92ms
+[I 180319 10:40:42 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.65ms
+[I 180319 10:40:42 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.60ms
+[I 180319 10:43:05 register:85] Start auto replying.
+[I 180319 10:43:08 web:1811] 304 GET / (127.0.0.1) 1.93ms
+[I 180319 10:43:09 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 9.50ms
+[I 180319 10:43:09 web:1811] 304 GET /static/css/main.css (127.0.0.1) 3.31ms
+[I 180319 10:43:09 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.96ms
+[I 180319 10:43:09 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.75ms
+[I 180319 10:43:09 web:1811] 304 GET /static/js/main.js (127.0.0.1) 3.07ms
+[I 180319 10:48:09 register:85] Start auto replying.
+[I 180319 10:48:11 web:1811] 304 GET / (127.0.0.1) 1.72ms
+[I 180319 10:48:11 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 20.33ms
+[I 180319 10:48:11 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.32ms
+[I 180319 10:48:11 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 14.41ms
+[I 180319 10:48:11 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.29ms
+[I 180319 10:48:11 web:1811] 304 GET /static/js/main.js (127.0.0.1) 8.24ms
+[I 180319 10:49:34 handlers:79] client close the connection: 4492423376
+[I 180319 10:49:34 web:1811] 304 GET / (127.0.0.1) 2.70ms
+[I 180319 10:49:35 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 2.30ms
+[I 180319 10:49:35 web:1811] 304 GET /static/css/main.css (127.0.0.1) 0.58ms
+[I 180319 10:49:35 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.57ms
+[I 180319 10:49:35 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.73ms
+[I 180319 10:49:35 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.66ms
+[I 180319 10:52:22 register:85] Start auto replying.
+[I 180319 10:52:23 web:1811] 304 GET / (127.0.0.1) 2.40ms
+[I 180319 10:52:24 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 15.88ms
+[I 180319 10:52:24 web:1811] 304 GET /static/css/main.css (127.0.0.1) 2.21ms
+[I 180319 10:52:24 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.69ms
+[I 180319 10:52:24 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.52ms
+[I 180319 10:52:24 web:1811] 200 GET /static/js/main.js (127.0.0.1) 4.65ms
+[I 180319 10:52:33 web:1811] 304 GET / (127.0.0.1) 0.46ms
+[I 180319 10:52:33 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 4.47ms
+[I 180319 10:52:33 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.80ms
+[I 180319 10:52:33 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.64ms
+[I 180319 10:52:33 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.19ms
+[I 180319 10:52:33 web:1811] 304 GET /static/css/main.css (127.0.0.1) 4.09ms
+[I 180319 10:53:01 register:85] Start auto replying.
+[I 180319 10:53:02 web:1811] 304 GET / (127.0.0.1) 2.03ms
+[I 180319 10:53:02 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 14.68ms
+[I 180319 10:53:02 web:1811] 304 GET /static/css/main.css (127.0.0.1) 7.05ms
+[I 180319 10:53:02 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 20.90ms
+[I 180319 10:53:02 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 4.50ms
+[I 180319 10:53:02 web:1811] 200 GET /static/js/main.js (127.0.0.1) 7.20ms
+[I 180319 10:54:27 register:85] Start auto replying.
+[I 180319 10:54:28 web:1811] 304 GET / (127.0.0.1) 1.61ms
+[I 180319 10:54:28 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 28.68ms
+[I 180319 10:54:28 web:1811] 304 GET /static/css/main.css (127.0.0.1) 12.05ms
+[I 180319 10:54:28 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 35.71ms
+[I 180319 10:54:28 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.40ms
+[I 180319 10:54:28 web:1811] 200 GET /static/js/main.js (127.0.0.1) 0.83ms
+[I 180319 10:54:52 web:1811] 304 GET / (127.0.0.1) 1.50ms
+[I 180319 10:54:52 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 6.33ms
+[I 180319 10:54:52 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 3.01ms
+[I 180319 10:54:52 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.21ms
+[I 180319 10:54:52 web:1811] 304 GET /static/js/main.js (127.0.0.1) 4.35ms
+[I 180319 10:54:52 web:1811] 304 GET /static/css/main.css (127.0.0.1) 4.49ms
+[I 180319 10:58:21 register:85] Start auto replying.
+[I 180319 10:58:27 web:1811] 304 GET / (127.0.0.1) 1.53ms
+[I 180319 10:58:27 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 14.78ms
+[I 180319 10:58:27 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.29ms
+[I 180319 10:58:27 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 11.95ms
+[I 180319 10:58:27 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.94ms
+[I 180319 10:58:27 web:1811] 200 GET /static/js/main.js (127.0.0.1) 2.16ms
+[I 180319 10:59:14 register:85] Start auto replying.
+[I 180319 10:59:27 register:85] Start auto replying.
+[I 180319 11:06:43 login:60] Please press confirm on your phone.
+[I 180319 11:06:49 login:67] Log in time out, reloading QR code.
+[I 180319 11:06:50 login:60] Please press confirm on your phone.
+[I 180319 11:06:54 login:70] Loading the contact, this may take a little while.
+[I 180319 11:06:56 login:80] Login successfully as 泥人张
+[I 180319 11:06:57 register:85] Start auto replying.
+[I 180319 11:07:02 web:1811] 200 GET / (127.0.0.1) 4.27ms
+[I 180319 11:07:02 web:1811] 304 GET /static/js/main.js (127.0.0.1) 33.23ms
+[I 180319 11:08:26 register:85] Start auto replying.
+[I 180319 11:08:27 web:1811] 200 GET / (127.0.0.1) 1.47ms
+[I 180319 11:08:27 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 19.05ms
+[I 180319 11:08:27 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.60ms
+[I 180319 11:08:27 web:1811] 304 GET /static/js/main.js (127.0.0.1) 10.14ms
+[I 180319 11:08:27 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.34ms
+[I 180319 11:08:27 web:1811] 304 GET /static/css/main.css (127.0.0.1) 10.21ms
+[I 180319 11:08:33 web:1811] 304 GET / (127.0.0.1) 0.69ms
+[I 180319 11:08:34 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.08ms
+[I 180319 11:08:34 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.03ms
+[I 180319 11:08:34 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.17ms
+[I 180319 11:08:34 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 2.61ms
+[I 180319 11:08:34 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.13ms
+[I 180319 11:09:14 web:1811] 304 GET / (127.0.0.1) 0.73ms
+[I 180319 11:09:14 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.33ms
+[I 180319 11:09:14 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.78ms
+[I 180319 11:09:14 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.79ms
+[I 180319 11:09:14 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.12ms
+[I 180319 11:09:14 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.65ms
+[I 180319 11:09:26 web:1811] 304 GET / (127.0.0.1) 0.39ms
+[I 180319 11:09:27 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 0.77ms
+[I 180319 11:09:27 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.85ms
+[I 180319 11:09:27 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.98ms
+[I 180319 11:09:27 web:1811] 304 GET /static/js/main.js (127.0.0.1) 3.14ms
+[I 180319 11:09:27 web:1811] 304 GET /static/css/main.css (127.0.0.1) 0.58ms
+[I 180319 11:10:20 web:1811] 304 GET / (127.0.0.1) 1.34ms
+[I 180319 11:10:21 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 0.92ms
+[I 180319 11:10:21 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.07ms
+[I 180319 11:10:21 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.00ms
+[I 180319 11:10:21 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 2.04ms
+[I 180319 11:10:21 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.67ms
+[I 180319 11:10:43 web:1811] 304 GET / (127.0.0.1) 3.06ms
+[I 180319 11:10:44 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.02ms
+[I 180319 11:10:44 web:1811] 304 GET /static/css/main.css (127.0.0.1) 0.65ms
+[I 180319 11:10:44 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.80ms
+[I 180319 11:10:44 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.77ms
+[I 180319 11:10:44 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.03ms
+[I 180319 11:10:52 register:85] Start auto replying.
+[I 180319 11:11:02 web:1811] 200 GET / (127.0.0.1) 4.50ms
+[I 180319 11:11:03 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 13.78ms
+[I 180319 11:11:03 web:1811] 304 GET /static/css/main.css (127.0.0.1) 0.99ms
+[I 180319 11:11:03 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.54ms
+[I 180319 11:11:03 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 5.11ms
+[I 180319 11:11:03 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.54ms
+[I 180319 11:11:35 web:1811] 304 GET / (127.0.0.1) 0.97ms
+[I 180319 11:11:36 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.23ms
+[I 180319 11:11:36 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.00ms
+[I 180319 11:11:36 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.23ms
+[I 180319 11:11:36 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.79ms
+[I 180319 11:11:36 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.68ms
+[I 180319 11:11:57 web:1811] 304 GET / (127.0.0.1) 1.09ms
+[I 180319 11:12:08 web:1811] 304 GET / (127.0.0.1) 1.53ms
+[I 180319 11:12:08 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.28ms
+[I 180319 11:12:08 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 0.85ms
+[I 180319 11:12:08 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.56ms
+[I 180319 11:12:08 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.61ms
+[I 180319 11:12:08 web:1811] 304 GET /static/css/main.css (127.0.0.1) 6.39ms
+[I 180319 11:13:24 web:1811] 304 GET / (127.0.0.1) 1.85ms
+[I 180319 11:13:24 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.97ms
+[I 180319 11:13:24 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.78ms
+[I 180319 11:13:24 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.60ms
+[I 180319 11:13:24 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.59ms
+[I 180319 11:13:24 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.57ms
+[I 180319 11:13:33 register:85] Start auto replying.
+[I 180319 11:13:34 web:1811] 200 GET / (127.0.0.1) 1.56ms
+[I 180319 11:13:34 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 22.57ms
+[I 180319 11:13:34 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.87ms
+[I 180319 11:13:34 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.25ms
+[I 180319 11:13:34 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 2.88ms
+[I 180319 11:13:34 web:1811] 200 GET /static/js/main.js (127.0.0.1) 4.60ms
+[I 180319 11:13:38 web:1811] 304 GET / (127.0.0.1) 0.86ms
+[I 180319 11:13:38 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 1.96ms
+[I 180319 11:13:38 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.90ms
+[I 180319 11:13:38 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 2.66ms
+[I 180319 11:13:38 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.62ms
+[I 180319 11:13:38 web:1811] 304 GET /static/css/main.css (127.0.0.1) 0.88ms
+[I 180319 11:13:48 web:1811] 304 GET / (127.0.0.1) 0.68ms
+[I 180319 11:13:48 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 2.90ms
+[I 180319 11:13:48 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.07ms
+[I 180319 11:13:48 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.40ms
+[I 180319 11:13:48 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.07ms
+[I 180319 11:13:48 web:1811] 304 GET /static/css/main.css (127.0.0.1) 3.25ms
+[I 180319 11:13:58 register:85] Start auto replying.
+[I 180319 11:14:01 web:1811] 304 GET / (127.0.0.1) 4.42ms
+[I 180319 11:14:02 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 18.31ms
+[I 180319 11:14:02 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.80ms
+[I 180319 11:14:02 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 5.69ms
+[I 180319 11:14:02 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 5.88ms
+[I 180319 11:14:02 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.82ms
+[I 180319 11:14:08 web:1811] 304 GET / (127.0.0.1) 1.70ms
+[I 180319 11:14:09 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.42ms
+[I 180319 11:14:13 web:1811] 304 GET / (127.0.0.1) 0.62ms
+[I 180319 11:14:13 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 2.85ms
+[I 180319 11:14:13 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.74ms
+[I 180319 11:14:13 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.06ms
+[I 180319 11:14:13 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.17ms
+[I 180319 11:14:13 web:1811] 304 GET /static/js/main.js (127.0.0.1) 1.07ms
+[I 180319 11:14:13 web:1811] 304 GET / (127.0.0.1) 1.08ms
+[I 180319 11:14:13 web:1811] 304 GET / (127.0.0.1) 0.98ms
+[I 180319 11:14:13 web:1811] 304 GET / (127.0.0.1) 1.50ms
+[I 180319 11:14:14 web:1811] 304 GET / (127.0.0.1) 3.10ms
+[I 180319 11:14:14 web:1811] 304 GET / (127.0.0.1) 0.75ms
+[I 180319 11:14:14 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 3.06ms
+[I 180319 11:14:14 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.55ms
+[I 180319 11:14:14 web:1811] 304 GET /static/js/main.js (127.0.0.1) 3.02ms
+[I 180319 11:14:14 web:1811] 304 GET /static/css/main.css (127.0.0.1) 4.96ms
+[I 180319 11:14:14 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 2.28ms
+[I 180319 11:14:15 web:1811] 200 GET / (127.0.0.1) 1.48ms
+[I 180319 11:14:15 web:1811] 200 GET /static/css/tooltip.css (127.0.0.1) 5.77ms
+[I 180319 11:14:15 web:1811] 200 GET /static/css/main.css (127.0.0.1) 1.22ms
+[I 180319 11:14:15 web:1811] 200 GET /static/js/ws.js (127.0.0.1) 3.15ms
+[I 180319 11:14:15 web:1811] 200 GET /static/js/main.js (127.0.0.1) 2.23ms
+[I 180319 11:14:15 web:1811] 200 GET /static/js/formvalid.js (127.0.0.1) 1.79ms
+[I 180319 11:14:15 web:1811] 200 GET / (127.0.0.1) 1.23ms
+[I 180319 11:14:15 web:1811] 200 GET /static/css/tooltip.css (127.0.0.1) 3.70ms
+[I 180319 11:14:15 web:1811] 200 GET /static/js/ws.js (127.0.0.1) 0.99ms
+[I 180319 11:14:15 web:1811] 200 GET /static/js/formvalid.js (127.0.0.1) 3.70ms
+[I 180319 11:14:15 web:1811] 200 GET /static/css/main.css (127.0.0.1) 1.46ms
+[I 180319 11:14:15 web:1811] 200 GET /static/js/main.js (127.0.0.1) 3.49ms
+[I 180319 11:14:26 register:85] Start auto replying.
+[I 180319 11:14:26 web:1811] 304 GET / (127.0.0.1) 1.60ms
+[I 180319 11:14:26 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 16.50ms
+[I 180319 11:14:26 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.16ms
+[I 180319 11:14:26 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 3.93ms
+[I 180319 11:14:26 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 2.86ms
+[I 180319 11:14:26 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.97ms
+[I 180319 11:14:28 web:1811] 200 GET / (127.0.0.1) 0.65ms
+[I 180319 11:14:28 web:1811] 200 GET /static/css/tooltip.css (127.0.0.1) 3.98ms
+[I 180319 11:14:28 web:1811] 200 GET /static/css/main.css (127.0.0.1) 1.62ms
+[I 180319 11:14:28 web:1811] 200 GET /static/js/ws.js (127.0.0.1) 6.88ms
+[I 180319 11:14:28 web:1811] 200 GET /static/js/formvalid.js (127.0.0.1) 5.07ms
+[I 180319 11:14:28 web:1811] 200 GET /static/js/main.js (127.0.0.1) 3.81ms
+[I 180319 11:14:28 web:1811] 200 GET / (127.0.0.1) 1.02ms
+[I 180319 11:14:29 web:1811] 200 GET /static/css/tooltip.css (127.0.0.1) 1.32ms
+[I 180319 11:14:29 web:1811] 200 GET /static/js/ws.js (127.0.0.1) 1.94ms
+[I 180319 11:14:29 web:1811] 200 GET /static/js/formvalid.js (127.0.0.1) 1.49ms
+[I 180319 11:14:29 web:1811] 200 GET /static/js/main.js (127.0.0.1) 1.05ms
+[I 180319 11:14:29 web:1811] 200 GET /static/css/main.css (127.0.0.1) 0.64ms
+[I 180319 11:17:53 register:85] Start auto replying.
+[I 180319 11:17:54 web:1811] 304 GET / (127.0.0.1) 1.81ms
+[I 180319 11:17:54 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 17.80ms
+[I 180319 11:17:54 web:1811] 304 GET /static/css/main.css (127.0.0.1) 3.93ms
+[I 180319 11:17:54 web:1811] 200 GET /static/js/ws.js (127.0.0.1) 1.49ms
+[I 180319 11:17:54 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.03ms
+[I 180319 11:17:54 web:1811] 200 GET /static/js/main.js (127.0.0.1) 3.38ms
+[I 180319 11:18:38 register:85] Start auto replying.
+[I 180319 11:18:39 web:1811] 304 GET / (127.0.0.1) 3.49ms
+[I 180319 11:18:40 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 11.86ms
+[I 180319 11:18:40 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.63ms
+[I 180319 11:18:40 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.16ms
+[I 180319 11:18:40 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 3.05ms
+[I 180319 11:18:40 web:1811] 200 GET /static/js/main.js (127.0.0.1) 6.60ms
+[I 180319 11:18:55 web:1811] 304 GET / (127.0.0.1) 0.57ms
+[I 180319 11:18:56 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 3.43ms
+[I 180319 11:18:56 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 3.51ms
+[I 180319 11:18:56 web:1811] 304 GET /static/css/main.css (127.0.0.1) 0.76ms
+[I 180319 11:18:56 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 0.46ms
+[I 180319 11:18:56 web:1811] 304 GET /static/js/main.js (127.0.0.1) 0.97ms
+[I 180319 11:19:12 register:85] Start auto replying.
+[I 180319 11:19:18 web:1811] 304 GET / (127.0.0.1) 1.80ms
+[I 180319 11:19:18 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 12.80ms
+[I 180319 11:19:18 web:1811] 304 GET /static/js/main.js (127.0.0.1) 2.67ms
+[I 180319 11:31:50 register:85] Start auto replying.
+[I 180319 11:31:55 web:1811] 304 GET / (127.0.0.1) 2.00ms
+[I 180319 11:31:56 web:1811] 304 GET /static/css/tooltip.css (127.0.0.1) 16.76ms
+[I 180319 11:31:56 web:1811] 304 GET /static/css/main.css (127.0.0.1) 1.37ms
+[I 180319 11:31:56 web:1811] 304 GET /static/js/formvalid.js (127.0.0.1) 1.40ms
+[I 180319 11:31:56 web:1811] 304 GET /static/js/main.js (127.0.0.1) 3.49ms
+[I 180319 11:31:56 web:1811] 304 GET /static/js/ws.js (127.0.0.1) 1.86ms

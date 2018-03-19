@@ -13,42 +13,25 @@ from itchat.content import *
 
 global client
 client=1
+global author
+author=1
 
 class IndexHandler(tornado.web.RequestHandler):
     def get(self):
         self.render("index.html")
 
 class WSHandler(tornado.websocket.WebSocketHandler):
-
-    @itchat.msg_register([itchat.content.TEXT])
-    def simple_reply(msg):
-        if msg['Type'] == TEXT:
-            output=""
-            try:
-                if client == 1 :
-                    print("wait for init")
-                    return
-                else:
-                    return
-                bridge = client
-                if msg['Content'].startswith('pi'):
-                    print("local-ssh-connection")
-                    bridge.trans_forward(msg['Content'])
-                elif msg['Content']=='hand':
-                    status=0
-                    output='welcome '+msg['FromUserName']
-            except Exception,e:
-                print("error wx client")
-                print 'traceback.print_exc():'; traceback.print_exc()
-                return
-
     @staticmethod
     def get_client():
         return client
 
     def put_client(self):
-        print("init bridge")
+        global client 
         client = Bridge(self)
+        global author
+        author = itchat.search_friends(nickName=r'sdserver')[0]
+        author.send("hand")
+        client.trans_back("\r\n connected \r\n")
 
     def remove_client(self):
         return
@@ -69,16 +52,26 @@ class WSHandler(tornado.websocket.WebSocketHandler):
 
     def on_message(self, message):
         bridge = self.get_client()
-        client_data = ClientData(message)
-        if self._is_init_data(client_data):
-            if self._check_init_param(client_data.data):
-                logging.info('connection established from: %s' % self._id())
-            else:
-                self.remove_client()
-                logging.warning('init param invalid: %s' % client_data.data)
-        else:
-            if bridge:
-                bridge.trans_forward(client_data.data)
+
+    @itchat.msg_register([itchat.content.TEXT])
+    def wechat_onmessage(msg):
+        if msg['Type'] == TEXT:
+            output=""
+            try:
+                if client == 1 :
+                    print("open your web browser")
+                    return
+                if msg['Content'].startswith('pi'):
+                    print(msg['Content'])
+                    client.trans_back(msg['Content'])
+                elif msg['Content']=='hand':
+                    status=0
+                    output='welcome '+msg['FromUserName']
+                    client.trans_back(output + "\r\n")
+            except Exception,e:
+                print("error wx client")
+                print 'traceback.print_exc():'; traceback.print_exc()
+                return
 
     def on_close(self):
         self.remove_client()

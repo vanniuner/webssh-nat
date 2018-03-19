@@ -7,7 +7,6 @@ try:
 except ImportError:
     from StringIO import StringIO
 
-
 class Bridge(object):
     def __init__(self, websocket):
         self._websocket = websocket
@@ -22,20 +21,18 @@ class Bridge(object):
         return self._websocket
 
     def trans_forward(self, data=""):
-        return
+        if author != 1:
+            author.send(data)
 
     def trans_back(self,data=""):
-        connected = True
-        while connected:
-            result = data
-            if self._websocket:
-                try:
-                    self._websocket.write_message(result)
-                except WebSocketClosedError:
-                    connected = False
-                if result == 'logout':
-                    connected = False
-        self.destroy()
+        result = data
+        if self._websocket:
+            try:
+                self._websocket.write_message(result)
+            except WebSocketClosedError:
+                self.destroy()
+            if result == 'logout':
+                self.destroy()
 
     def destroy(self):
         self._websocket.close()

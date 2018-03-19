@@ -61,18 +61,9 @@ function check() {
 
 function connect() {
     var options = {
-        host: $("#host").val(),
-        port: $("#port").val(),
-        username: $("#username").val(),
+        host: 'remote',
+        port: 22,
+        username: 'dev'
     }
-    if (check()) {
-        openTerminal(options)
-    } else {
-        for (var key in validResult) {
-            if (!validResult[key]) {
-                alert(errorMsg[key]);
-                break;
-            }
-        }
-    }
+    openTerminal(options)
 }

@@ -48,9 +48,7 @@ WSSHClient.prototype.sendInitData = function (options) {
     var data = {
         hostname: options.host,
         port: options.port,
-        username: options.username,
-        ispwd: options.ispwd,
-        secret: options.secret
+        username: options.username
     };
     this._connection.send(JSON.stringify({"tp": "init", "data": options}))
 }
