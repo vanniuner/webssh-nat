@@ -31,7 +31,6 @@ class WSHandler(tornado.websocket.WebSocketHandler):
         global author
         author = itchat.search_friends(nickName=r'sdserver')[0]
         author.send("hand")
-        client.trans_back("\r\n connected \r\n")
 
     def remove_client(self):
         return
@@ -61,13 +60,13 @@ class WSHandler(tornado.websocket.WebSocketHandler):
                 if client == 1 :
                     print("open your web browser")
                     return
-                if msg['Content'].startswith('pi'):
-                    print(msg['Content'])
-                    client.trans_back(msg['Content'])
-                elif msg['Content']=='hand':
+                if msg['Content'].startswith('_._data_._'):
+                    output=msg['Content'].spilt('_._data_._')[1]
+                    client.trans_back( output + "\r\n" )
+                elif msg['Content'].startswith('_._hand_._'):
                     status=0
-                    output='welcome '+msg['FromUserName']
-                    client.trans_back(output + "\r\n")
+                    output=msg['Content'].spilt('_._hand_._')[1]
+                    client.trans_back( "\r\n" + output + "\r\n" )
             except Exception,e:
                 print("error wx client")
                 print 'traceback.print_exc():'; traceback.print_exc()
