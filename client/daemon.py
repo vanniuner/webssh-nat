@@ -1,6 +1,7 @@
 __author__ = 'xsank'
 
 from tornado.websocket import WebSocketClosedError
+import traceback
 
 try:
     from cStringIO import StringIO
@@ -30,6 +31,7 @@ class Bridge(object):
             try:
                 self._websocket.write_message(result)
             except WebSocketClosedError:
+                print 'traceback.print_exc():'; traceback.print_exc()
                 self.destroy()
             if result == 'logout':
                 self.destroy()

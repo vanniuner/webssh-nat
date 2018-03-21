@@ -1,15 +1,17 @@
-__author__ = 'xsank'
-
+from __future__ import print_function
 import logging
 import traceback
 import tornado.websocket
 
 from daemon import Bridge
 from data import ClientData
+import json
 from utils import check_ip, check_port
+
 
 import itchat
 from itchat.content import *
+import binascii
 
 global client
 client=1
@@ -30,7 +32,9 @@ class WSHandler(tornado.websocket.WebSocketHandler):
         client = Bridge(self)
         global author
         author = itchat.search_friends(nickName=r'sdserver')[0]
-        author.send("hand")
+        content="_._hand_._connect"
+        #content = binascii.hexlify("_._hand_._connect".encode('utf-8'))
+        author.send(content)
 
     def remove_client(self):
         return
@@ -50,7 +54,11 @@ class WSHandler(tornado.websocket.WebSocketHandler):
         self.put_client()
 
     def on_message(self, message):
-        bridge = self.get_client()
+        if author==1:
+            return
+        msgdata = json.loads(message)['data']
+        if not isinstance(msgdata,dict):
+            author.send("_._data_._" + msgdata)
 
     @itchat.msg_register([itchat.content.TEXT])
     def wechat_onmessage(msg):
@@ -60,16 +68,14 @@ class WSHandler(tornado.websocket.WebSocketHandler):
                 if client == 1 :
                     print("open your web browser")
                     return
+                if author['UserName']!=msg['FromUserName']:
+                    return 
+                msg['Content'] = binascii.unhexlify(msg['Content'])
                 if msg['Content'].startswith('_._data_._'):
-                    output=msg['Content'].spilt('_._data_._')[1]
-                    client.trans_back( output + "\r\n" )
-                elif msg['Content'].startswith('_._hand_._'):
-                    status=0
-                    output=msg['Content'].spilt('_._hand_._')[1]
-                    client.trans_back( "\r\n" + output + "\r\n" )
+                    output=msg['Content'].split('_._data_._')[1]
+                    client.trans_back( output )
             except Exception,e:
                 print("error wx client")
-                print 'traceback.print_exc():'; traceback.print_exc()
                 return
 
     def on_close(self):

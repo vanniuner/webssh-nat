@@ -1,9 +1,13 @@
+# coding=utf-8
 __author__ = 'vanniuner'
 
 import paramiko
 from paramiko.ssh_exception import AuthenticationException, SSHException
+from ioloop import IOLoop
+import traceback
+import binascii
 
-class Bridge(object):
+class Bridge():
     def __init__(self, itchat , fromUserName):
         self._itchat = itchat
         self._fromUserName = fromUserName
@@ -34,28 +38,17 @@ class Bridge(object):
             pkey = paramiko.DSSKey.from_private_key(StringIO(_PRIVATE_KEY), _PRIVATE_KEY_PWD)
         return pkey
 
-    def isPassword(self, data):
-        return data.get("ispwd", True)
-
     def open(self, data={}):
         self.ssh.set_missing_host_key_policy(
             paramiko.AutoAddPolicy())
-        try:
-            if self.isPassword(data):
-                self.ssh.connect(
-                    hostname=data["host"],
-                    port=int(data["port"]),
-                    username=data["username"],
-                    password=data["secret"],
-                )
 
-            else:
-                self.ssh.connect(
-                    hostname=data["host"],
-                    port=int(data["port"]),
-                    username=data["username"],
-                    pkey=self.privaterKey(data["secret"], None)
-                )
+        try:
+            self.ssh.connect(
+                hostname=data["host"],
+                port=int(data["port"]),
+                username=data["username"],
+                password=data["secret"]
+            )
 
         except AuthenticationException:
             raise Exception("auth failed user:%s ,passwd:%s" %
@@ -73,6 +66,7 @@ class Bridge(object):
         self._id = self._shell.fileno()
         IOLoop.instance().register(self)
         IOLoop.instance().add_future(self.trans_back())
+        print("new one established")
 
     def trans_forward(self, data=""):
         if self._shell:
@@ -85,8 +79,11 @@ class Bridge(object):
             result = yield
             if self._itchat:
                 try:
-                    self._itchat.send(u'%s' % result, self._fromUserName)
+                    result = '_._data_._' + result
+                    result = binascii.hexlify(result)
+                    self._itchat.send(result, self._fromUserName)
                 except Exception:
+                    print 'traceback.print_exc():'; traceback.print_exc()
                     connected = False
                 if result.strip() == 'logout':
                     connected = False
